@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/chrismar035/solver"
+	"github.com/chrismar035/sudoku-solver"
 
 	"gopkg.in/redis.v3"
 )
